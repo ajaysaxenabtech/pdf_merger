@@ -1,0 +1,10 @@
+PDF_MERGER/
+  src/pdf_pipeline/__init__.py
+  src/pdf_pipeline/pipeline.py
+  data/input/
+  data/output/
+  scripts/combine_pdfs.py
+  notebooks/Combine_PDFs.ipynb
+  requirements.txt
+  README.md
+  .vscode/settings.json
